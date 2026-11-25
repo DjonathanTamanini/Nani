@@ -5,3 +5,15 @@ Thumbs.db
 *.log
 *.swp
 *~
+
+# Ambientes Python / Node
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+node_modules/
+.env
+
+# Backups locais sensíveis
+*.bak
